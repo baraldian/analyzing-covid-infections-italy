@@ -1,0 +1,171 @@
+PCM-DPC dati forniti dal Ministero della Salute
+Bergamo 5154
+Brescia 4648
+Como 380
+Cremona 2392
+Lecco 676
+Lodi 1597
+Monza Brianza 816
+Milano 3804
+Mantova 723
+Pavia 1105
+Sondrio 163
+Varese 338
+in fase di verifica e aggiornamento 468
+Totale 22264
+Piacenza 1575
+Parma 979
+Reggio Emilia 773
+Modena 767
+Bologna 552
+Ferrara 102
+Ravenna 213
+Forlì Cesena 250
+Rimini 757
+altro/in fase di verifica
+Totale 5968
+PADOVA 1026
+VENEZIA 574
+ROVIGO 67
+VICENZA 518
+VERONA 784
+BELLUNO 195
+TREVISO 719
+altro/in fase di verifica 148
+Totale 4031
+ANCONA 513
+PESARO 1099
+MACERATA 215
+FERMO 80
+ASCOLI PICENO 43
+altro/in fase di verifica 31
+Totale 1981
+Covid 19 - Ripartizione dei contagiati per provincia al 20/03/2020
+ore 17
+PCM-DPC dati forniti dal Ministero della Salute
+ALESSANDRIA 595
+ASTI 151
+BIELLA 175
+CUNEO 221
+Novara 293
+Torino 1556
+VERCELLI 203
+Verbano-Cusio-Ossola 142
+altro/in fase di aggiornamento 125
+Totale 3461
+Firenze 401
+Pistoia 171
+Lucca 249
+Siena 128
+Massa Carrara 232
+Arezzo 124
+Pisa 180
+Livorno 117
+Grosseto 97
+Prato 94
+Totale 1793
+NAPOLI 416
+Salerno 115
+Caserta 96
+Avellino 97
+Benevento 8
+altro/in fase di verifica 17
+Totale 749
+Roma 755
+Frosinone 52
+Rieti 18
+Viterbo 63
+Latina 115
+altro/in fase di verifica 5
+Totale 1008
+SAVONA 162
+LA SPEZIA 90
+IMPERIA 145
+GENOVA 527
+altro/in fase di verifica 297
+Totale 1221
+PCM-DPC dati forniti dal Ministero della Salute
+Trieste 216
+Gorizia 30
+Udine 296
+Pordenone 114
+Friuli in aggiornamento
+Totale 656
+AGRIGENTO 31
+CALTANISSETTA 18
+CATANIA 162
+ENNA 25
+MESSINA 39
+PALERMO 59
+RAGUSA 7
+SIRACUSA 40
+TRAPANI 27
+Totale 408
+BARI 165
+BAT 30
+BRINDISI 84
+FOGGIA 163
+LECCE 88
+TARANTO 33
+altro/in fase di aggiornamento 18
+TOTALE 581
+TERNI 97
+PERUGIA 280
+altro/in fase di aggiornamento 18
+Totale 395
+L'Aquila 29
+Chieti 80
+Pescara 259
+Teramo 81
+Totale 449
+Campobasso 39
+Isernia 4
+altro/in fase di aggiornamento 7
+Totale 50
+Bolzano 548
+
+PCM-DPC dati forniti dal Ministero della Salute
+Trento 642
+Totale 1190
+Città metropolitana di Cagliari 43
+Sud Sardegna 8
+Oristano 4
+Nuoro 22
+Sassari 216
+Totale 293
+Potenza 43
+Matera 9
+Totale 52
+AOSTA 264
+Totale 264
+COSENZA 45
+REGGIO CALABRIA 73
+CATANZARO 34
+VIBO VALENTIA 8
+CROTONE 45
+Altro/In fase di aggiornamento 2
+Totale 207
+Totale Generale 47021
+
+
+
+LOMBARDIA
+EMILIA-ROMAGNA
+VENETO
+MARCHE
+PIEMONTE
+TOSCANA
+CAMPANIA
+LAZIO
+LIGURIA
+FRIULI VENEZIA GIULIA
+SICILIA
+PUGLIA
+UMBRIA
+ABRUZZO
+MOLISE
+TRENTINO ALTO ADIGE
+SARDEGNA
+BASILICATA
+VALLE D'AOSTA
+CALABRIA

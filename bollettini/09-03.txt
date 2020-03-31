@@ -1,0 +1,156 @@
+PCM-DPC dati forniti dal Ministero della Salute
+Bergamo 1245
+Lodi 928
+Cremona 916
+in fase di verifica e aggiornamento 516
+Pavia 296
+Brescia 739
+Milano 506
+Monza Brianza 64
+Mantova 102
+Varese 44
+Sondrio 7
+Como 40
+Lecco 66
+Totale 5469
+Piacenza 602
+Parma 279
+Modena 116
+Rimini 164
+Reggio Emilia 103
+Bologna 80
+Ravenna 19
+Forlì Cesena 16
+Ferrara 7
+in fase di verifica e aggiornamento
+Totale 1386
+PADOVA 273
+TREVISO 136
+VENEZIA 130
+VERONA 73
+in fase di verifica e aggiornamento 43
+VICENZA 53
+BELLUNO 29
+ROVIGO 7
+Totale 744
+Pesaro 246
+Ancona 63
+Macerata 9
+Fermo 5
+Totale 323
+Torino 87
+Covid 19 - Ripartizione dei contagiati per provincia al 09/03/2020
+ore 17
+PIEMONTE
+LOMBARDIA
+VENETO
+EMILIA-ROMAGNA
+MARCHE
+PCM-DPC dati forniti dal Ministero della Salute
+Novara 14
+Asti 58
+Vercelli 11
+Alessandria 63
+Verbano-Cusio-Ossola 11
+BIELLA 18
+CUNEO 11
+in fase di verifica e aggiornamento 77
+Totale 350
+Firenze 51
+Siena 29
+Massa Carrara 28
+Pistoia 16
+Lucca 31
+Arezzo 12
+Pisa 20
+Livorno 10
+Prato 5
+Grosseto 6
+Totale 208
+Napoli 55
+Salerno 17
+caserta 32
+avellino 3
+benevento 4
+In aggiornamento 9
+Totale 120
+Roma 91
+Frosinone 2
+Viterbo 2
+Latina 6
+Lazio in aggiornamento 1
+Totale 102
+Savona 35
+Imperia 11
+Genova 38
+La Spezia 15
+in fase di aggiornamento 10
+Totale 109
+Trieste 25
+Gorizia 6
+TOSCANA
+LIGURIA
+LAZIO
+CAMPANIA
+FRIULI VENEZIA GIULIA
+PCM-DPC dati forniti dal Ministero della Salute
+Udine 24
+Pordenone 2
+Friuli in aggiornamento 36
+Totale 93
+Palermo 6
+Enna
+Catania 23
+Ragusa 1
+Agrigento 1
+Messina 2
+Siracusa 2
+in fase di aggiornamento 19
+Totale 54
+Taranto 3
+Bari 6
+Brindisi 5
+Bat 3
+Lecce 10
+Foggia 23
+Totale 50
+Perugia 12
+Terni 16
+Totale 28
+Teramo 4
+Pescara 14
+L'aquila 5
+Chieti 7
+Totale 30
+Campobasso 14
+Totale 14
+Bolzano 9
+Trento 33
+Totale 42
+Cagliari 14
+Nuoro 3
+Oristano 1
+Sassari 1
+TRENTINO ALTO ADIGE
+SICILIA
+UMBRIA
+ABRUZZO
+SARDEGNA
+MOLISE
+PUGLIA
+PCM-DPC dati forniti dal Ministero della Salute
+Totale 19
+Potenza 2
+Matera 3
+Totale 5
+AOSTA 15
+Totale 15
+Cosenza 4
+Reggio Calabria 2
+Catanzaro 3
+Vibo Valentia 2
+Totale 11
+Totale Generale 9172
+CALABRIA
+VALLE D'AOSTA
+BASILICATA

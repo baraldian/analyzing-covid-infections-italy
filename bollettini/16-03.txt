@@ -1,0 +1,164 @@
+PCM-DPC dati forniti dal Ministero della Salute
+Bergamo 3760
+Brescia 2918
+Como 220
+Cremona 1881
+Lecco 386
+Lodi 1362
+Monza Brianza 346
+Milano 1983
+Mantova 382
+Pavia 801
+Sondrio 46
+Varese 202
+in fase di verifica e aggiornamento 362
+Totale 14649
+Piacenza 1073
+Parma 707
+Reggio Emilia 241
+Modena 440
+Bologna 291
+Ferrara 44
+Ravenna 114
+Forlì Cesena 103
+Rimini 509
+altro/in fase di verifica
+Totale 3522
+PADOVA 715
+ROVIGO 27
+VENEZIA 356
+VICENZA 287
+VERONA 425
+BELLUNO 101
+TREVISO 452
+altro/in fase di verifica 110
+Totale 2473
+ANCONA 323
+PESARO 733
+MACERATA 117
+FERMO 36
+ASCOLI PICENO 21
+altro/in fase di verifica 12
+Totale 1242
+Covid 19 - Ripartizione dei contagiati per provincia al 16/03/2020
+ore 17
+LOMBARDIA
+VENETO
+EMILIA-ROMAGNA
+MARCHE
+PCM-DPC dati forniti dal Ministero della Salute
+ALESSANDRIA 273
+ASTI 87
+BIELLA 67
+CUNEO 91
+Novara 109
+Torino 542
+VERCELLI 99
+Verbano-Cusio-Ossola 58
+altro/in fase di aggiornamento 190
+Totale 1516
+Firenze 186
+Pistoia 90
+Lucca 138
+Siena 66
+Massa Carrara 117
+Arezzo 43
+Pisa 78
+Livorno 53
+Grosseto 50
+Prato 45
+Totale 866
+NAPOLI 219
+Salerno 57
+Caserta 60
+Avellino 49
+Benevento 4
+altro/in fase di verifica 11
+Totale 400
+Roma 412
+Frosinone 44
+Viterbo 27
+Rieti 11
+Latina 23
+in fase di aggiornamento 6
+Totale 523
+SAVONA 96
+LA SPEZIA 60
+IMPERIA 78
+GENOVA 274
+altro/in fase di verifica 159
+Totale 667
+TOSCANA
+PIEMONTE
+LIGURIA
+LAZIO
+CAMPANIA
+PCM-DPC dati forniti dal Ministero della Salute
+Trieste 164
+Gorizia 16
+Udine 152
+Pordenone 54
+Friuli in aggiornamento
+Totale 386
+AGRIGENTO 22
+CALTANISSETTA 4
+CATANIA 96
+ENNA 5
+MESSINA 11
+PALERMO 37
+RAGUSA 4
+SIRACUSA 21
+TRAPANI 13
+Totale 213
+BARI 58
+BAT 22
+BRINDISI 40
+FOGGIA 62
+LECCE 38
+TARANTO 10
+TOTALE 230
+Perugia 104
+Terni 60
+Da aggiornare
+Totale 164
+L'Aquila 18
+Chieti 38
+Pescara 101
+Teramo 19
+Totale 176
+Campobasso 21
+Totale 21
+Bolzano 241
+Trento 378
+Totale 619
+UMBRIA
+FRIULI VENEZIA GIULIA
+ABRUZZO
+MOLISE
+PUGLIA
+TRENTINO ALTO ADIGE
+SICILIA
+PCM-DPC dati forniti dal Ministero della Salute
+Città metropolitana di Cagiari 24
+Sud Sardegna 5
+Oristano 2
+Nuoro 19
+Sassari 57
+Totale 107
+Potenza 8
+Matera 4
+Totale 12
+AOSTA 105
+Totale 105
+COSENZA 17
+REGGIO CALABRIA 22
+CATANZARO 6
+VIBO VALENTIA 6
+CROTONE 17
+Altro/In fase di aggiornamento 21
+Totale 89
+Totale Generale 27980
+CALABRIA
+VALLE D'AOSTA
+SARDEGNA
+BASILICATA

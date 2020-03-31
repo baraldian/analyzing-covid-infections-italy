@@ -1,0 +1,152 @@
+PCM-DPC dati forniti dal Ministero della Salute
+Bergamo 997
+Lodi 853
+Cremona 665
+in fase di verifica e aggiornamento 291
+Pavia 243
+Brescia 501
+Milano 406
+Monza Brianza 59
+Mantova 56
+Varese 32
+Sondrio 6
+Como 27
+Lecco 53
+Totale 4189
+Piacenza 528
+Parma 276
+Modena 97
+Rimini 113
+Reggio Emilia 70
+Bologna 62
+Ravenna 13
+Forlì Cesena 15
+Ferrara 6
+in fase di verifica e aggiornamento
+Totale 1180
+PADOVA 255
+TREVISO 126
+VENEZIA 126
+VERONA 63
+in fase di verifica e aggiornamento 22
+VICENZA 50
+BELLUNO 23
+ROVIGO 5
+Totale 670
+Pesaro 204
+Ancona 54
+Macerata 9
+Fermo 5
+Totale 272
+Torino 89
+Covid 19 - Ripartizione dei contagiati per provincia al 08/03/2020
+ore 17
+PIEMONTE
+LOMBARDIA
+VENETO
+EMILIA-ROMAGNA
+MARCHE
+PCM-DPC dati forniti dal Ministero della Salute
+Novara 13
+Asti 58
+Vercelli 15
+Alessandria 60
+Verbano-Cusio-Ossola 13
+BIELLA 19
+CUNEO 5
+in fase di verifica e aggiornamento 88
+Totale 360
+Firenze 39
+Siena 24
+Massa Carrara 21
+Pistoia 13
+Lucca 26
+Arezzo 9
+Pisa 17
+Livorno 10
+Prato 3
+Grosseto 4
+Totale 166
+Napoli 45
+Salerno 15
+caserta 28
+avellino 3
+benevento 4
+In aggiornamento 6
+Totale 101
+Roma 77
+Frosinone 2
+Viterbo 2
+Latina 6
+Totale 87
+Savona 25
+Imperia 10
+Genova 25
+La Spezia 11
+in fase di aggiornamento 7
+Totale 78
+Trieste 25
+Gorizia 6
+Udine 24
+TOSCANA
+LIGURIA
+LAZIO
+CAMPANIA
+FRIULI VENEZIA GIULIA
+PCM-DPC dati forniti dal Ministero della Salute
+Pordenone 2
+Totale 57
+Palermo 6
+Enna
+Catania 23
+Ragusa 1
+Agrigento 1
+Messina 2
+Siracusa 2
+in fase di aggiornamento 18
+Totale 53
+Taranto 3
+Bari 5
+Brindisi 3
+Bat 3
+Lecce 10
+Foggia 16
+Totale 40
+Perugia 15
+Terni 11
+Totale 26
+Teramo 4
+Pescara 8
+L'aquila 1
+Chieti 4
+Totale 17
+Campobasso 14
+Totale 14
+Bolzano 9
+Trento 23
+Totale 32
+Cagliari 9
+Nuoro 2
+Totale 11
+Potenza 2
+TRENTINO ALTO ADIGE
+SICILIA
+UMBRIA
+ABRUZZO
+SARDEGNA
+MOLISE
+BASILICATA
+PUGLIA
+PCM-DPC dati forniti dal Ministero della Salute
+Matera 2
+Totale 4
+AOSTA 9
+Totale 9
+Cosenza 1
+Reggio Calabria 1
+Catanzaro 2
+altro in fase di aggiornamento 5
+Totale 9
+Totale Generale 7375
+CALABRIA
+VALLE D'AOSTA
