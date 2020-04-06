@@ -48,8 +48,8 @@ altro/in fase di verifica 54
 Totale 3196
 PCM‐DPC dati forniti dal Ministero della Salute
 PIEMONTE
-1106
-ALESSANDRIA ASTI 303
+ALESSANDRIA 1106
+ASTI 303
 BIELLA 367
 CUNEO 518
 NOVARA 609

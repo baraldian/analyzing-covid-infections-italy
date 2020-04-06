@@ -1,3 +1,4 @@
+PCM‐DPC dati forniti dal Ministero della Salute
 Covid 19 - Ripartizione dei contagiati per provincia al 26/03/2020 ore
 17
 LOMBARDIA
@@ -45,9 +46,11 @@ FERMO 204
 ASCOLI PICENO 111
 altro/in fase di verifica 51
 Totale 3114
+PCM‐DPC dati forniti dal Ministero della Salute
 PIEMONTE
-980
-ALESSANDRIA ASTI 282
+
+ALESSANDRIA 980
+ASTI 282
 BIELLA 336
 CUNEO 487
 NOVARA 577
