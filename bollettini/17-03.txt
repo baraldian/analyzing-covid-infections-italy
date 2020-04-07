@@ -21,7 +21,7 @@ Bologna 333
 Ferrara 58
 Ravenna 124
 Forlì Cesena 144
-Rimini (aggiornamento mancante) 509
+Rimini 509
 altro/in fase di verifica
 Totale 3931
 PADOVA 781

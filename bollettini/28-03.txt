@@ -141,8 +141,9 @@ altro/in fase di aggiornamento 13
 Totale 123
 PCM‐DPC dati forniti dal Ministero della Salute
 TRENTINO ALTO ADIGE
-l 1109
-Bolzano Trento 1505
+l
+Bolzano 1109
+Trento 1505
 Totale 2614
 SARDEGNA
 Città metropolitana di Cagliari 97
