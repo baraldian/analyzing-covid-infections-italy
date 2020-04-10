@@ -1,0 +1,169 @@
+PCM-DPC dati forniti dal Ministero della Salute
+Bergamo 10151
+Brescia 10369
+Como 1686
+Cremona 4562
+Lecco 1838
+Lodi 2419
+Monza Brianza 3424
+Milano 12748
+Mantova 2355
+Pavia 2963
+Sondrio 661
+Varese 1589
+altro/in fase di verifica 1283
+Totale 56.048
+Piacenza 3049
+Parma 2473
+Reggio Emilia 3630
+Modena 2930
+Bologna 2954
+Ferrara 566
+Ravenna 776
+Forlì Cesena 1099
+Rimini 1651
+altro/in fase di verifica
+Totale 19.128
+PADOVA 3206
+VENEZIA 1780
+ROVIGO 271
+VICENZA 1953
+VERONA 3257
+BELLUNO 649
+TREVISO 1944
+altro/in fase di verifica 361
+Totale 13.421
+ANCONA 1501
+PESARO 2093
+MACERATA 776
+FERMO 343
+ASCOLI PICENO 237
+altro/in fase di verifica 134
+Totale 5.084
+Covid 19 - Ripartizione dei contagiati per provincia al 10/04/2020 ore
+17
+LOMBARDIA
+VENETO
+EMILIA-ROMAGNA
+MARCHE
+PCM-DPC dati forniti dal Ministero della Salute
+ALESSANDRIA 2119
+ASTI 703
+BIELLA 628
+CUNEO 1318
+NOVARA 1258
+TORINO 7226
+VERCELLI 708
+Verbano-Cusio-Ossola 790
+altro/in fase di verifica 262
+Totale 15.012
+Firenze 2069
+Pistoia 468
+Lucca 988
+Siena 363
+Massa Carrara 798
+Arezzo 403
+Pisa 613
+Livorno 358
+Grosseto 310
+Prato 357
+altro/in fase di verifica
+Totale 6.727
+NAPOLI 1772
+AVELLINO 397
+BENEVENTO 149
+CASERTA 359
+SALERNO 513
+altro/in fase di verifica 252
+Totale 3.442
+Roma 3114
+Frosinone 463
+Rieti 270
+Viterbo 304
+Latina 384
+altro/in fase di verifica 48
+Totale 4.583
+SAVONA 686
+LA SPEZIA 629
+IMPERIA 899
+GENOVA 2918
+altro/in fase di verifica 59
+Totale 5.191
+TOSCANA
+PIEMONTE
+LIGURIA
+LAZIO
+CAMPANIA
+PCM-DPC dati forniti dal Ministero della Salute
+Trieste 857
+Gorizia 121
+Udine 845
+Pordenone 520
+altro/in fase di verifica 6
+Totale 2.349
+AGRIGENTO 119
+CALTANISSETTA 116
+CATANIA 672
+ENNA 316
+MESSINA 412
+PALERMO 351
+RAGUSA 61
+SIRACUSA 135
+TRAPANI 120
+Totale 2.302
+BARI 886
+BAT 243
+BRINDISI 316
+FOGGIA 721
+LECCE 403
+TARANTO 208
+altro/in fase di verifica 32
+TOTALE 2.809
+TERNI 306
+PERUGIA 950
+altro/in fase di verifica 46
+Totale 1.302
+L'Aquila 213
+Chieti 392
+Pescara 838
+Teramo 571
+Totale 2.014
+Campobasso 185
+Isernia 43
+altro/in fase di verifica 15
+Totale 243
+Bolzano 1955
+TRENTINO ALTO ADIGE
+SICILIA
+UMBRIA
+FRIULI VENEZIA GIULIA
+ABRUZZO
+MOLISE
+PUGLIA
+PCM-DPC dati forniti dal Ministero della Salute
+Trento 2816
+Totale 4.771
+Città metropolitana di Cagliari 179
+Sud Sardegna 80
+Oristano 31
+Nuoro 67
+Sassari 706
+Totale 1.063
+Potenza 161
+Matera 147
+altro/in fase di verifica
+Totale 308
+AOSTA 879
+Totale 879
+COSENZA 289
+REGGIO CALABRIA 256
+CATANZARO 176
+VIBO VALENTIA 65
+CROTONE 113
+altro/in fase di verifica 2
+Totale 901
+Totale Generale 147.577
+CALABRIA
+VALLE D'AOSTA
+SARDEGNA
+BASILICATA
