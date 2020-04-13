@@ -16,8 +16,8 @@ def extract(text_file, data):
     with open(text_file,'r', encoding="utf8") as f:
         text = f.read()
 
-    x = re.findall("(?P<name>[A-Za-z ]+) (?P<number>[0-9]+)", text)
-    rilevazioni = { citta.upper() : numero for citta, numero in x }
+    x = re.findall("(?P<name>[A-Za-z ]+) (?P<number>[0-9.]+)", text)
+    rilevazioni = { citta.upper() : int(numero.replace('.','')) for citta, numero in x }
 
     try:
         with open('dati.raw', 'r', encoding='utf8') as dataFile:
